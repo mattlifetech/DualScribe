@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34eee770-a6da-444e-8098-d7ea2d8eae73" alt="DualScribe Logo" width="180"/>
+</p>
+
 # 🈯 DualScribe
 
 **DualScribe** is a free, signed Windows application that transforms `.txt` files into beautifully aligned multilingual HTML documents — with intelligent handling of Chinese text (including **Pinyin** display for each character).
@@ -12,6 +16,12 @@
 - 🖥 Distributed as a **digitally signed standalone `.exe`**
 - 🖼 Clean, intuitive GUI with logo and usage instructions
 - ✅ Output `.html` file saved in the **same folder** as the original `.txt`
+- 🆓 FREE to use for all
+  
+![Screenshot 2025-05-03 173444](https://github.com/user-attachments/assets/7e90d866-c961-41c1-a72a-bfef515c66a6)
+![Screenshot 2025-05-03 173459](https://github.com/user-attachments/assets/93eb2d72-1774-4161-8b64-372cd1099185)
+![Screenshot 2025-05-03 173508](https://github.com/user-attachments/assets/d125c21f-dfdd-4b5a-9ecf-5577c3cd8ab9)
+
 
 ---
 
@@ -26,14 +36,23 @@ DualScribe uses the [`deep_translator`](https://pypi.org/project/deep-translator
 
 ---
 
-## 🚀 How It Works
+### 🚀 How It Works
+- 🌐 Select source and target languages  
+- 📂 Browse a `.txt` file to translate  
+- 💾 Translated content is saved in the same folder as an `.html` file  
+- 💡 *Even if the app displays “Not Responding,” translation continues in the background.*  
+  A ✅ pop-up will appear when the process is complete.
 
-1. Select source and target languages
-2. Browse a `.txt` file to translate
-3. Translated content is saved in the same folder as an `.html` file
+---
 
-> 💡 Even if the app displays “Not Responding,” translation continues in the background.  
-> A pop-up will appear when the process is complete.
+### 📸 Tip: Convert Hardcopy or Textbook Content to TXT
+If you’re working with printed materials:
+
+1. 📷 Use your phone camera to take a clear photo of the page.  
+2. 🔍 Tap the image and select **“Recognize Text”** (iOS: *Live Text*, Android: *Text Scanner*, *Google Lens*, etc).  
+3. 📋 Copy the recognized text.  
+4. 📱 Send it to yourself via **WhatsApp**, **Telegram**, or email.  
+5. 📝 Paste it into a `.txt` file using **Notepad**, **VSCode**, or any text editor.
 
 ---
 
