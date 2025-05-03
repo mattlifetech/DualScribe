@@ -61,5 +61,5 @@ DualScribe supports the following language pairs (source/target):
 
 ---
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-support-yellow?logo=buy-me-a-coffee&style=flat-square)](https://www.buymeacoffee.com/mattchoo2)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-support-yellow?logo=buy-me-a-coffee&style=flat-square)](https://www.paypal.com/paypalme/mattchoo2)
 
